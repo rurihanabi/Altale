@@ -1,22 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://blog.mijiu.moe</id>
-    <title>世界は囁いて</title>
-    <updated>2020-02-23T06:38:29.377Z</updated>
+    <title>世界在窃窃私语</title>
+    <updated>2020-02-23T08:54:45.903Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://blog.mijiu.moe"/>
     <link rel="self" href="https://blog.mijiu.moe/atom.xml"/>
-    <subtitle>世界在窃窃私语。</subtitle>
+    <subtitle>&lt;h2&gt;因为无论是谁皆愿向他人传达喜爱呀。&lt;br /&gt;因为无论是谁皆愿为他人喜爱啊。&lt;/h2&gt;</subtitle>
     <logo>https://blog.mijiu.moe/images/avatar.png</logo>
     <icon>https://blog.mijiu.moe/favicon.ico</icon>
-    <rights>All rights reserved 2020, 世界は囁いて</rights>
+    <rights>All rights reserved 2020, 世界在窃窃私语</rights>
     <entry>
-        <title type="html"><![CDATA[仅作为测试，我先在这里放一个标题。]]></title>
-        <id>https://blog.mijiu.moe/post/jin-zuo-wei-ce-shi-wo-xian-zai-zhe-li-fang-yi-ge-biao-ti/</id>
-        <link href="https://blog.mijiu.moe/post/jin-zuo-wei-ce-shi-wo-xian-zai-zhe-li-fang-yi-ge-biao-ti/">
+        <title type="html"><![CDATA[噢，我的博客它怎么又开起来了]]></title>
+        <id>https://blog.mijiu.moe/post/page1_02232020/</id>
+        <link href="https://blog.mijiu.moe/post/page1_02232020/">
         </link>
         <updated>2020-02-23T06:26:57.000Z</updated>
-        <content type="html"><![CDATA[<p>只是一片普普通通的文章</p>
-]]></content>
     </entry>
 </feed>
