@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://blog.mijiu.moe</id>
     <title>请让我看到你的笑脸</title>
-    <updated>2020-02-28T07:00:40.999Z</updated>
+    <updated>2020-02-28T14:24:31.037Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://blog.mijiu.moe"/>
     <link rel="self" href="https://blog.mijiu.moe/atom.xml"/>
@@ -10,6 +10,13 @@
     <logo>https://blog.mijiu.moe/images/avatar.png</logo>
     <icon>https://blog.mijiu.moe/favicon.ico</icon>
     <rights>All rights reserved 2020, 请让我看到你的笑脸</rights>
+    <entry>
+        <title type="html"><![CDATA[理性的时候能想起的事情]]></title>
+        <id>https://blog.mijiu.moe/post/li-xing-de-shi-hou-neng-xiang-qi-de-shi-qing/</id>
+        <link href="https://blog.mijiu.moe/post/li-xing-de-shi-hou-neng-xiang-qi-de-shi-qing/">
+        </link>
+        <updated>2020-02-28T13:10:53.000Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[噢，我的博客它怎么又开起来了]]></title>
         <id>https://blog.mijiu.moe/post/page1_02232020/</id>
