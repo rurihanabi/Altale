@@ -14034,6 +14034,7 @@ pre code.markdown,
 .markdown > ul li pre code,
 .markdown > ol li pre code {
   padding: 1rem;
+  color: #EAEAEA;
 }
 
 .markdown > table {
