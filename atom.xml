@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://blog.mijiu.moe</id>
     <title>请让我看到你的笑脸</title>
-    <updated>2020-05-02T14:02:26.949Z</updated>
+    <updated>2020-05-02T14:05:42.824Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://blog.mijiu.moe"/>
     <link rel="self" href="https://blog.mijiu.moe/atom.xml"/>
@@ -30,13 +30,6 @@
         <link href="https://blog.mijiu.moe/post/fable-The-happy-prince/">
         </link>
         <updated>2020-03-29T15:01:05.000Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[理性的时候能想起的事情]]></title>
-        <id>https://blog.mijiu.moe/post/page1_02282020/</id>
-        <link href="https://blog.mijiu.moe/post/page1_02282020/">
-        </link>
-        <updated>2020-02-28T13:10:53.000Z</updated>
     </entry>
     <entry>
         <title type="html"><![CDATA[噢，我的博客它怎么又开起来了]]></title>
