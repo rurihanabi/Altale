@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://blog.mijiu.moe</id>
     <title>请让我看到你的笑脸</title>
-    <updated>2020-07-10T16:56:40.706Z</updated>
+    <updated>2020-07-22T15:52:58.641Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://blog.mijiu.moe"/>
     <link rel="self" href="https://blog.mijiu.moe/atom.xml"/>
@@ -10,6 +10,13 @@
     <logo>https://blog.mijiu.moe/images/avatar.png</logo>
     <icon>https://blog.mijiu.moe/favicon.ico</icon>
     <rights>All rights reserved 2020, 请让我看到你的笑脸</rights>
+    <entry>
+        <title type="html"><![CDATA[向西去，打扮漂亮。]]></title>
+        <id>https://blog.mijiu.moe/post/xiang-xi-qu-da-ban-piao-liang/</id>
+        <link href="https://blog.mijiu.moe/post/xiang-xi-qu-da-ban-piao-liang/">
+        </link>
+        <updated>2020-07-22T15:03:08.000Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[与悲伤同行的日子。]]></title>
         <id>https://blog.mijiu.moe/post/page1_06212020/</id>
