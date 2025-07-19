@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://blog.thanks.moe</id>
+    <title>请让我看到你的笑脸</title>
+    <updated>2025-07-19T15:56:34.619Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://blog.thanks.moe"/>
+    <link rel="self" href="https://blog.thanks.moe/atom.xml"/>
+    <subtitle>因为无论是谁皆愿向他人传达喜爱呀，&lt;br /&gt;
+因为无论是谁皆愿为他人喜爱啊。</subtitle>
+    <logo>https://blog.thanks.moe/images/avatar.png</logo>
+    <icon>https://blog.thanks.moe/favicon.ico</icon>
+    <rights>All rights reserved 2025, 请让我看到你的笑脸</rights>
+    <entry>
+        <title type="html"><![CDATA[老人与海鸥]]></title>
+        <id>https://blog.thanks.moe/post/lao-ren-yu-hai-ou/</id>
+        <link href="https://blog.thanks.moe/post/lao-ren-yu-hai-ou/">
+        </link>
+        <updated>2025-07-13T15:48:42.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[记录一下自己折腾黑苹果的事情。]]></title>
+        <id>https://blog.thanks.moe/post/ji-lu-yi-xia-zi-ji-zhe-teng-hei-ping-guo-de-shi-qing/</id>
+        <link href="https://blog.thanks.moe/post/ji-lu-yi-xia-zi-ji-zhe-teng-hei-ping-guo-de-shi-qing/">
+        </link>
+        <updated>2024-01-22T14:55:32.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[整合一下自己开播之后准备唱的歌]]></title>
+        <id>https://blog.thanks.moe/post/boku-no-uta/</id>
+        <link href="https://blog.thanks.moe/post/boku-no-uta/">
+        </link>
+        <updated>2022-02-12T14:19:46.000Z</updated>
+        <summary type="html"><![CDATA[<p>嗯，按照，嗯...想要唱的程度来分一下类吧。毕竟这样的话也更有逻辑，什么歌适合自己唱，什么歌自己能唱好，什么歌是单纯想而不适合之类的。</p>
+<p>（10.22更新 果然在记录之前 还是应该尽可能把网易云的歌甚至B站的歌都转移到本地，下架打压太厉害了 可能按照我的速度根本跟不上了）</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>嗯，按照，嗯...想要唱的程度来分一下类吧。毕竟这样的话也更有逻辑，什么歌适合自己唱，什么歌自己能唱好，什么歌是单纯想而不适合之类的。</p>
+<p>（10.22更新 果然在记录之前 还是应该尽可能把网易云的歌甚至B站的歌都转移到本地，下架打压太厉害了 可能按照我的速度根本跟不上了）</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[温柔]]></title>
+        <id>https://blog.thanks.moe/post/wen-rou/</id>
+        <link href="https://blog.thanks.moe/post/wen-rou/">
+        </link>
+        <updated>2022-01-16T14:18:41.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[一点想法]]></title>
+        <id>https://blog.thanks.moe/post/page1_11172021/</id>
+        <link href="https://blog.thanks.moe/post/page1_11172021/">
+        </link>
+        <updated>2021-11-17T14:37:43.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[中国式「不好好说话」实录]]></title>
+        <id>https://blog.thanks.moe/post/page1_05012020/</id>
+        <link href="https://blog.thanks.moe/post/page1_05012020/">
+        </link>
+        <updated>2020-04-30T15:01:49.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[最后一头战象]]></title>
+        <id>https://blog.thanks.moe/post/fable-zui-hou-yi-tou-zhan-xiang/</id>
+        <link href="https://blog.thanks.moe/post/fable-zui-hou-yi-tou-zhan-xiang/">
+        </link>
+        <updated>2020-04-02T09:56:10.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[快乐王子]]></title>
+        <id>https://blog.thanks.moe/post/fable-The-happy-prince/</id>
+        <link href="https://blog.thanks.moe/post/fable-The-happy-prince/">
+        </link>
+        <updated>2020-03-29T15:01:05.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[噢，我的博客它怎么又开起来了]]></title>
+        <id>https://blog.thanks.moe/post/page1_02232020/</id>
+        <link href="https://blog.thanks.moe/post/page1_02232020/">
+        </link>
+        <updated>2020-02-23T06:26:57.000Z</updated>
+    </entry>
+</feed>
